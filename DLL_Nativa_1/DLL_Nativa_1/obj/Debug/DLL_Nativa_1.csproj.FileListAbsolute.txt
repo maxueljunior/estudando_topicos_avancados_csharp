@@ -1,0 +1,8 @@
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\bin\Debug\DLL_Nativa_1.exe.config
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\bin\Debug\DLL_Nativa_1.exe
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\bin\Debug\DLL_Nativa_1.pdb
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\obj\Debug\DLL_Nativa_1.csproj.AssemblyReference.cache
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\obj\Debug\DLL_Nativa_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\obj\Debug\DLL_Nativa_1.csproj.CoreCompileInputs.cache
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\obj\Debug\DLL_Nativa_1.exe
+C:\Users\Maxuel\source\repos\DLL_Nativa_1\DLL_Nativa_1\obj\Debug\DLL_Nativa_1.pdb
