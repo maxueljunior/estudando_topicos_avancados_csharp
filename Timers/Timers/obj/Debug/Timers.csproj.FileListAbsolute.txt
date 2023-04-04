@@ -1,0 +1,8 @@
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\bin\Debug\Timers.exe.config
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\bin\Debug\Timers.exe
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\bin\Debug\Timers.pdb
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\obj\Debug\Timers.csproj.AssemblyReference.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\obj\Debug\Timers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\obj\Debug\Timers.exe
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Timers\Timers\obj\Debug\Timers.pdb

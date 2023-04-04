@@ -1,0 +1,17 @@
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\bin\Debug\net6.0-windows\Grapichs_Interface.exe
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\bin\Debug\net6.0-windows\Grapichs_Interface.deps.json
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\bin\Debug\net6.0-windows\Grapichs_Interface.runtimeconfig.json
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\bin\Debug\net6.0-windows\Grapichs_Interface.dll
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\bin\Debug\net6.0-windows\Grapichs_Interface.pdb
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.csproj.AssemblyReference.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.Form1.resources
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.csproj.GenerateResource.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.AssemblyInfoInputs.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.AssemblyInfo.cs
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.dll
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\refint\Grapichs_Interface.dll
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.pdb
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\Grapichs_Interface.genruntimeconfig.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Grapichs_Interface\Grapichs_Interface\obj\Debug\net6.0-windows\ref\Grapichs_Interface.dll

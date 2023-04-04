@@ -1,0 +1,8 @@
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\bin\Debug\Programação_Paralela.exe.config
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\bin\Debug\Programação_Paralela.exe
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\bin\Debug\Programação_Paralela.pdb
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\obj\Debug\Programação_Paralela.csproj.AssemblyReference.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\obj\Debug\Programação_Paralela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\obj\Debug\Programação_Paralela.csproj.CoreCompileInputs.cache
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\obj\Debug\Programação_Paralela.exe
+C:\Users\Maxuel\Desktop\estudando_topicos_avancados_csharp\Programação_Paralela\Programação_Paralela\obj\Debug\Programação_Paralela.pdb
